@@ -1,1 +1,1 @@
-import streamlit as st; st.title('Hello from Azure\!!!')
+import streamlit as st; st.title('Hello from Azure\!')
